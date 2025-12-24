@@ -29,7 +29,6 @@ logo_img = pygame.transform.scale(logo_img, (140, 50))
 
 pygame.mixer.init()
 susto_som = pygame.mixer.Sound("sons/susto.mp3")
-
 stage = 1
 max_stage = 9
 baloes = []
